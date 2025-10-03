@@ -1,7 +1,6 @@
 # Logistic Regression from Scratch 
 
 This project implements **binary logistic regression with L2 regularization** from scratch using only `NumPy`.  
-It follows the requirements of Homework 2 for CAP 4630 – Artificial Intelligence at UCF.
 
 ---
 
