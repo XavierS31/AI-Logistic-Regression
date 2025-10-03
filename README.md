@@ -26,11 +26,9 @@ The pipeline includes:
 4. **Logistic regression model**  
    - Hypothesis:  
 $$
-\hat{y} = \sigma(\mathbf{w}^\top \mathbf{x}), \quad
+\hat{y} = \sigma(\mathbf{w}^\top \mathbf{x}), \quad 
 \sigma(z) = \frac{1}{1 + e^{-z}}
 $$
-
-
    - Loss: Binary cross-entropy + L2 penalty  
 
 5. **Gradient descent optimization**  
